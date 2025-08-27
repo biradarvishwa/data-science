@@ -73,6 +73,8 @@ Extend analysis for multiple countries.
 World Bank Open Data
 
 UN World Population Prospects (2022)
-<img width="695" height="547" alt="task1" src="https://github.com/user-attachments/assets/2b70e397-0bcf-4edc-be65-050940e33323" />
 
 Visualization inspired by statsOfIndia.in
+
+
+<img width="695" height="547" alt="task1" src="https://github.com/user-attachments/assets/2b70e397-0bcf-4edc-be65-050940e33323" />
